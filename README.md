@@ -1,4 +1,4 @@
 # basic-cpp-examples
 
 
-Respositoriio básico con ejemplos de cpp
+Respositorio básico con ejemplos de cpp
